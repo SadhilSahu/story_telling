@@ -1,0 +1,4 @@
+characters
+lion
+monkey
+crocodile
