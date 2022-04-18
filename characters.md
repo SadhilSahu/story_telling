@@ -1,4 +1,3 @@
 characters
 lion
-monkey
-crocodile
+monkey and monkey wife
